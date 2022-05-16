@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lemon_select" type="id" />
+    <item name="lemon_squeeze" type="id" />
+    <item name="lemon_drink" type="id" />
+    <item name="lemon_empty_glass" type="id" />
+</resources>
